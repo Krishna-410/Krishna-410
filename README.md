@@ -16,6 +16,6 @@ I am Krishna B.Tech  CSE First Year StudentI am Krishna Btech Cse Core 1st 2nd Y
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Krishna-410&icon=9&color=9)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Krishna-410&icon=1&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
